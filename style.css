@@ -35,6 +35,10 @@ p.white {
 	background: black;
 }
 
+.blue {
+	background: blue;
+}
+
 .btn {
 	margin-bottom: 15px;
 }
